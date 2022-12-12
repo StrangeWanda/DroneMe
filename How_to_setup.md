@@ -8,4 +8,11 @@
 6. Type `pip install opencv-contrib-python`
 
 
+# How to run
+1. Open Command line in the file that you downloaded all these files
+2. Type `cd E/Scripts/`
+3. Type `activate`
+4. Type `python <file_name.py>`
+Example : `python See a monkey.py`
+---
 **Contact Nandhakishore NS if you run into trouble**
