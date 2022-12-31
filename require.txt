@@ -1,0 +1,5 @@
+opencv-contrib-python
+mavproxy
+dronekit
+dronekit-sitl
+pymavlink==2.4.8
