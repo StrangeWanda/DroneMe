@@ -5,7 +5,7 @@
 3. Type `virtualenv E`
 4. Type `cd E/Scripts/`
 5. Type `activate`
-6. Type `pip install opencv-contrib-python`
+6. Type `pip install -r require.txt`
 
 
 # How to run
